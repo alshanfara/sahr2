@@ -1,4 +1,7 @@
-
+ul.nav.nav-tabs>li.active>a {
+   
+    color: #f5c807;
+}
 .broadcasters {
 
           background-image: linear-gradient( 90deg ,#970404 0,#df8d8dd1 10%,#970404 51%,#df8d8dd1 89%,#970404 100%);
@@ -15,7 +18,8 @@ div#l2 input#pass1, div#l2 input#u2, div#l3 input#pass2, div#l3 input#u3 {
     float: right;
     margin: 2px 5px 2px 0;
          background-image: linear-gradient( 90deg ,#970404 0,#df8d8dd1 10%,#e19999 51%,#df8d8dd1 89%,#970404 100%);
-
+border-radius: 150px 10px 150px 10px!important;
+    border: 1px solid #f5c807!important;
 
 }
 
