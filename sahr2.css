@@ -39,7 +39,8 @@ ul.nav.nav-tabs {
 
 }
 
-.bg {background-color: #9f1f1f;}
+.bg {background-color: #9f1f1f!important;
+}
 
 
 ul.nav.nav-tabs>li>a {
